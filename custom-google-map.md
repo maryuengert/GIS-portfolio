@@ -1,9 +1,9 @@
 ## Assignment: Build and deploy a custom Google Map for a non-profit organization
 
 ### Nonprofit selection and color palette
-For this project, I selected to work with the nonprogit Partners in Health, a global public health organization that works to deliver vital health care services to impoverished communities. One of their founders, Paul Farmer, passed away recently--he was a major influence on my decision to go into public policy and I thought it would be fitting to dedicate this project to his organization.
+For this project, I selected to work with the nonprofit [Partners in Health](https://www.pih.org/), a global public health organization that works to deliver vital health care services to impoverished communities. One of their founders, Paul Farmer, passed away recently--he was a major influence on my decision to go into public policy and I thought it would be fitting to dedicate this project to his organization.
 
-![FMIruK5WQAMLYuo](https://user-images.githubusercontent.com/81482638/159127896-67dccc27-4579-4f06-99ca-b3ceeb3ab4e3.jpg)
+<div align="center">![FMIruK5WQAMLYuo](https://user-images.githubusercontent.com/81482638/159127896-67dccc27-4579-4f06-99ca-b3ceeb3ab4e3.jpg)</div>
 
 Given PiH's website and various photos I found on Twitter, I built the following color palette to use for this project:
 
