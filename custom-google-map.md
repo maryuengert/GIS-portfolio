@@ -9,22 +9,23 @@ For this project, I selected to work with the nonprofit [Partners in Health](htt
   >
 </p>
 
+***
+
 Given PiH's website and various photos I found on PiH's Facebook page, I put together the following mood board:
 
 <p align="center">
    <img
-     src="https://user-images.githubusercontent.com/81482638/159128640-94267988-3838-4dee-a898-213232d5d2d7.png"
+     src="https://user-images.githubusercontent.com/81482638/159128940-284768eb-d962-46ba-8629-3ee3e6848e66.png"
    >
 </p>
-  
-  
+
 This was my final color palette:
 
-<center>
-
-<img width="584" alt="Screenshot 2022-03-16 213737" src="https://user-images.githubusercontent.com/81482638/159128668-3384c3a3-5732-467c-99ff-0d43203ab97f.png">
-  
-</center>
+<p align="center">
+  <img
+    src="https://user-images.githubusercontent.com/81482638/159128668-3384c3a3-5732-467c-99ff-0d43203ab97f.png"
+  >
+</p>
 
 My design decisions were based in the concepts of standard GIS convention, simplicity, and legibility. I wanted to create a map that was simple and readable for PiH's users--PiH is a global organization and uses maps on its website, so their users may come to rely on this map heavily to see where PiH is working. Given their global reach, I also wanted to ensure the map was readble at a global extent. 
 
