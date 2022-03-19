@@ -6,7 +6,7 @@ For this project, I selected to work with the nonprofit [Partners in Health](htt
 <p align="center">
   <img 
     width="800"
-    height="600"
+    height="500"
     src="https://user-images.githubusercontent.com/81482638/159127896-67dccc27-4579-4f06-99ca-b3ceeb3ab4e3.jpg"
   >
 </p>
