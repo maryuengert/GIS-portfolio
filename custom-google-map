@@ -1,20 +1,2 @@
-## Assignment: Build and deploy a custom Google Map for a non-profit organization
-
-### Nonprofit selection and color palette
-For this project, I selected to work with the nonprogit Partners in Health, a global public health organization that works to deliver vital health care services to impoverished communities. One of their founders, Paul Farmer, passed away recently--he was a major influence on my decision to go into public policy and I thought it would be fitting to dedicate this project to his organization.
-
-![](/FMIruK5WQAMLYuo.jpg)
-
-Given PiH's website and various photos I found on Twitter, I built the following color palette to use for this project:
-
-
-
-
-My design decisions were based in the concepts of standard GIS convention, simplicity, and legibility. I wanted to create a map that was simple and readable for PiH's users--PiH is a global organization and uses maps on its website, so their users may come to rely on this map heavily to see where PiH is working. Given their global reach, I also wanted to ensure the map was readble at a global extent. 
-
-Some of my design decisions included:
-+ using shades of orange, PiH's main brand color, as the dominant color by assigning it to major features such as land masses, parks, and roads
-+ using the contrasting purple color to represent water features because it's a cool color and therefore intutively makes sense to users
-+ making labels dark with a light halo to increase readability
 
 
