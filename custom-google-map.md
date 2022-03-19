@@ -30,6 +30,7 @@ This was my final color palette:
   >
 </p>
 
+### Design Decisions and Final Product
 My design decisions were based in the concepts of standard GIS convention, simplicity, and legibility. I wanted to create a map that was simple and readable for PiH's users--PiH is a global organization and uses maps on its website, so their users may come to rely on this map heavily to see where PiH is working. Given their global reach, I also wanted to ensure the map was readble at a global extent. Finally, I did not want to stray too much from standard mapmaking conventions, such as grounding landmass features with lighter colors, choosing intuitive colors for natural features such as blue (or in this case purple) for water, etc.
 
 Some of my design decisions included:
