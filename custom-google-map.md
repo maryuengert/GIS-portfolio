@@ -9,17 +9,14 @@ For this project, I selected to work with the nonprofit [Partners in Health](htt
   >
 </p>
 
-![FMIruK5WQAMLYuo](https://user-images.githubusercontent.com/81482638/159127896-67dccc27-4579-4f06-99ca-b3ceeb3ab4e3.jpg)
-  
-</center>
-
 Given PiH's website and various photos I found on PiH's Facebook page, I put together the following mood board:
 
-<center>
+<p align="center">
+   <img
+     src="https://user-images.githubusercontent.com/81482638/159128640-94267988-3838-4dee-a898-213232d5d2d7.png"
+   >
+</p>
   
-![Partners in Health GIS Map mood board (1)](https://user-images.githubusercontent.com/81482638/159128640-94267988-3838-4dee-a898-213232d5d2d7.png)
-
-  </center>
   
 This was my final color palette:
 
