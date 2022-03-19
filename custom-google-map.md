@@ -42,7 +42,7 @@ Below is a screenshot of the finished map. JSON code can be found in my GIS-port
 
 <p align="center">
    <img
-   width="500"
+   width="700"
    src="https://user-images.githubusercontent.com/81482638/159127931-8c6ea8c4-8066-46b4-8fd8-007a44416e91.png"
    >
 </p>
