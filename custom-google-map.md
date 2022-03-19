@@ -15,6 +15,8 @@ Given PiH's website and various photos I found on PiH's Facebook page, I put tog
 
 <p align="center">
    <img
+    width="300"
+    length="500"
      src="https://user-images.githubusercontent.com/81482638/159128940-284768eb-d962-46ba-8629-3ee3e6848e66.png"
    >
 </p>
