@@ -9,6 +9,8 @@ I am interested in clocking more time working with GIS and Esri products, as wel
 
 ## Portfolio
 
+[Final Project: Suitability Analysis for Tree Planting Sites in Pittsburgh, PA](/final-project.md)
+
 [GIS Insights DEA Pain Pill Database Analysis](/insights-painpillanalysis.md)
 
 [Custom Google Map for a nonprofit organization](/custom-google-map.md)
